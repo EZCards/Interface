@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#1d201b">
+    <RelativeLayout android:id="@+id/relativeLayout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:id="@+id/editText"
+            android:background="#7dcc82"
+            android:text="EZ Card"
+            android:textAlignment="center"
+            android:textStyle="bold|normal"
+            android:gravity="center"
+            android:textSize="@android:dimen/notification_large_icon_width"
+            android:height="@android:dimen/app_icon_size"
+            android:editable="false"
+            android:textColor="#0d0d0d"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:focusable="true"
+            android:singleLine="false"
+            android:visibility="visible"
+            android:typeface="serif" />
+
+
+            <requestFocus></requestFocus>
+
+
+
+
+
+        <Button
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnCapture"
+            android:onClick="onPictureClick"
+            android:background="@drawable/capturecardbutton"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+        <Button
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:onClick="onPictureClick"
+            android:background="@drawable/selectcard"
+            android:id="@+id/button"
+            android:layout_below="@+id/btnCapture"
+            android:layout_alignRight="@+id/btnCapture"
+            android:layout_alignEnd="@+id/btnCapture" />
+        <Button
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:onClick="onPictureClick"
+            android:background="@drawable/mycard"
+            android:layout_below="@+id/button"
+            android:layout_alignLeft="@+id/button"
+            android:layout_alignStart="@+id/button" />
+
+
+
+
+    </RelativeLayout>
+</LinearLayout>
