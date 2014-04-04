@@ -30,25 +30,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.smartmobilesofware.ocrapiservice" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ce0f25e-b890-453a-83a5-fcc50ea93faf" name="Default" comment="adding interfaces">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/res/drawable-hdpi/capturecardbutton.png" afterPath="$PROJECT_DIR$/Android/res/drawable-hdpi/capturecardbutton.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/res/drawable-ldpi/capturecardbutton.png" afterPath="$PROJECT_DIR$/Android/res/drawable-ldpi/capturecardbutton.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/res/drawable-mdpi/capturecardbutton.png" afterPath="$PROJECT_DIR$/Android/res/drawable-mdpi/capturecardbutton.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/res/drawable-hdpi/icon.png" afterPath="$PROJECT_DIR$/Android/res/drawable-hdpi/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/res/drawable-ldpi/icon.png" afterPath="$PROJECT_DIR$/Android/res/drawable-ldpi/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/res/drawable-mdpi/icon.png" afterPath="$PROJECT_DIR$/Android/res/drawable-mdpi/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/res/drawable-hdpi/mycard.png" afterPath="$PROJECT_DIR$/Android/res/drawable-hdpi/mycard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/res/drawable-ldpi/mycard.png" afterPath="$PROJECT_DIR$/Android/res/drawable-ldpi/mycard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/res/drawable-mdpi/mycard.png" afterPath="$PROJECT_DIR$/Android/res/drawable-mdpi/mycard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/res/drawable-hdpi/selectcard.png" afterPath="$PROJECT_DIR$/Android/res/drawable-hdpi/selectcard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/res/drawable-ldpi/selectcard.png" afterPath="$PROJECT_DIR$/Android/res/drawable-ldpi/selectcard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/res/drawable-mdpi/selectcard.png" afterPath="$PROJECT_DIR$/Android/res/drawable-mdpi/selectcard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/src/com/smartmobilesofware/ocrapiservice/OCRServiceAPI.java" afterPath="$PROJECT_DIR$/Android/src/com/smartmobilesofware/ocrapiservice/OCRServiceAPI.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/src/com/smartmobilesofware/ocrapiservice/SampleActivity.java" afterPath="$PROJECT_DIR$/Android/src/com/smartmobilesofware/ocrapiservice/SampleActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/res/values/ids.xml" afterPath="$PROJECT_DIR$/Android/res/values/ids.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/res/layout/main.xml" afterPath="$PROJECT_DIR$/Android/res/layout/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/src/com/smartmobilesofware/ocrapiservice/myMainActivity.java" afterPath="$PROJECT_DIR$/Android/src/com/smartmobilesofware/ocrapiservice/myMainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Android/res/values/strings.xml" afterPath="$PROJECT_DIR$/Android/res/values/strings.xml" />
+    <list default="true" id="5ce0f25e-b890-453a-83a5-fcc50ea93faf" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="EZCards.iws" />
@@ -123,13 +105,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mycards.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="mycards.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Android/res/layout/mycards.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="735">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -156,14 +138,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cardcapture.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="cardcapture.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Android/res/layout/cardcapture.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6598241" vertical-offset="2385" max-vertical-offset="2775">
-              <caret line="174" column="0" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
+            <state vertical-scroll-proportion="-93.333336" vertical-offset="0" max-vertical-offset="2775">
+              <caret line="168" column="31" selection-start-line="168" selection-start-column="31" selection-end-line="168" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -215,7 +197,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.222221" vertical-offset="540" max-vertical-offset="1095">
+            <state vertical-scroll-proportion="-37.22222" vertical-offset="0" max-vertical-offset="1095">
               <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
               <folding />
             </state>
@@ -334,6 +316,32 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mime" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EZCards" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mime" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -382,6 +390,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EZCards" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -583,12 +605,16 @@
       <created>1396309466791</created>
       <updated>1396309466791</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding interfaces">
+      <created>1396647975598</created>
+      <updated>1396647975598</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1280" height="705" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -609,7 +635,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295082" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle View" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1013,32 +1039,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Android/res/layout/main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.222221" vertical-offset="540" max-vertical-offset="1095">
-          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Android/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870">
           <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Android/res/layout/mycards.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1059,13 +1063,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Android/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-37.22222" vertical-offset="0" max-vertical-offset="1095">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Android/res/layout/cardcapture.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6598241" vertical-offset="2385" max-vertical-offset="2775">
-          <caret line="174" column="0" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
+        <state vertical-scroll-proportion="-93.333336" vertical-offset="0" max-vertical-offset="2775">
+          <caret line="168" column="31" selection-start-line="168" selection-start-column="31" selection-end-line="168" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Android/res/layout/mycards.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
